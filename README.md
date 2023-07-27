@@ -17,3 +17,5 @@ Verified GP2040-CE vendors can choose to have their logo on the back and the QR 
 Please remember to give credit where due.
 
 Tips/Donations: https://ko-fi.com/bol21539
+
+Last updated: July 27 2023
